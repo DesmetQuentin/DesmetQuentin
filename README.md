@@ -8,7 +8,7 @@
      I'm also quite in contact with Fabien Solmon (LAERO, France)
                                 and Patrick Marsaleix (LEGOS, France)
          for conducting this work.
-- 📫 How to reach me: quentin.desmet@legos.obs-mip.fr
+- 📫 How to reach me: quentin.desmet@univ-tlse3.fr
 
 <!---
 DesmetQuentin/DesmetQuentin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
